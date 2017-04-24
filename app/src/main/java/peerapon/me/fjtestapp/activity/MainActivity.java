@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFailure(Call<List<ListResult>> call, Throwable t) {
-            
+
 
             }
         });
